@@ -1,0 +1,1 @@
+The goal of this project is to create a HTML recipe page, link it to different sites, add images and overall display the skills that I have learned until now.
